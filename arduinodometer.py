@@ -13,7 +13,7 @@ import sys
 from math import pi
 
 if len(sys.argv) < 3:
-  print "ghettodometer.py <filename> <wheel radius>"
+  print "arduinodometer.py <filename> <wheel radius>"
   print " (measure center of hub to ground)"
   sys.exit(1)
 
